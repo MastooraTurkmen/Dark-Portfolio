@@ -8,6 +8,6 @@ My dark portifolio which you can find my projects here :)
 
 ![screenshot-3](./screenshots/image-2.png)
 
-![Alt text](./screenshots/image-3.png)
+![screenshot-4](./screenshots/image-3.png)
 
 ![Alt text](./screenshots/image-4.png)
