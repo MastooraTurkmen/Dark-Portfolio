@@ -10,4 +10,4 @@ My dark portifolio which you can find my projects here :)
 
 ![Alt text](./screenshots/image-3.png)
 
-![Alt text](image-4.png)
+![Alt text](./screenshots/image-4.png)
