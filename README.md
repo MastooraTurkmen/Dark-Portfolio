@@ -25,3 +25,5 @@ My dark portifolio which you can find my projects here :)
     + [JavaScript](https://github.com/topics/javascript)
 
 2. **Tools** 🔧
+
+    + [Chrome](https://github.com/topics/chrome)
