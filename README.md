@@ -38,3 +38,4 @@ My dark portifolio which you can find my projects here :)
 
 1. How to deploy our project to the ***Netlify*** site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
+3. Go to the Netlify site and select Add a new site.
